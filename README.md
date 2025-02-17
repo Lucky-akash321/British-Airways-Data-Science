@@ -1,5 +1,7 @@
 # British Airways Data Science
 
+![](https://github.com/Lucky-akash321/British-Airways-Data-Science/blob/main/ba%20logo.jpg)
+
 ## Overview
 British Airways leverages data science to optimize operations, enhance customer experience, and drive business insights. By applying machine learning and advanced analytics, the airline improves efficiency, personalization, and decision-making.
 
