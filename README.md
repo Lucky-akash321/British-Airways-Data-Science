@@ -22,6 +22,10 @@ British Airways leverages data science to optimize operations, enhance customer 
    - Real-time anomaly detection for operational risks.
    - Fraud detection and cybersecurity analytics.
 
+
+![]((https://github.com/Lucky-akash321/British-Airways-Data-Science/blob/main/bads.png)
+
+
 ## Technologies & Tools
 - **Programming Languages:** Python, R, SQL
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
